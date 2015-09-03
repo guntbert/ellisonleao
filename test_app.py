@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# encoding: utf-6
+# encoding: utf-8
 
 import unittest
 from app import main
